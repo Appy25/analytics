@@ -1,0 +1,5 @@
+nrow(available.packages())
+install.packages('amap')
+library(help=amap)
+library(amap)
+library(dplyr)
